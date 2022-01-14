@@ -155,7 +155,7 @@ public final class carrito extends javax.swing.JFrame {
         jPanel1.add(TBcedula, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 10, 132, -1));
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
-        jLabel3.setText("idventa");
+        jLabel3.setText("ID_VENTA");
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 540, -1, 20));
 
         TBidventa.setEditable(false);
